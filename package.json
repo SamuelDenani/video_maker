@@ -1,0 +1,19 @@
+{
+  "name": "video_maker",
+  "version": "1.0.0",
+  "description": "Projeto criado para aprendizado de diversos recursos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samukxs/video_maker.git"
+  },
+  "author": "Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samukxs/video_maker/issues"
+  },
+  "homepage": "https://github.com/Samukxs/video_maker#readme"
+}
