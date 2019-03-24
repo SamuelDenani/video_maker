@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Samukxs/video_maker/issues"
   },
-  "homepage": "https://github.com/Samukxs/video_maker#readme"
+  "homepage": "https://github.com/Samukxs/video_maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
